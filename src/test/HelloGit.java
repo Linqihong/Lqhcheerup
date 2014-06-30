@@ -5,7 +5,7 @@ public class HelloGit {
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-       System.out.println("ƒ„∫√£°Nice to meet you!");
+       System.out.println("‰Ω†Â•ΩÔºÅNice to meet you!");
 	}
 
 }
